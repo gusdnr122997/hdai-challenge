@@ -1,3 +1,4 @@
+status : 작성중
 ## HD현대 AI Challenge
 https://dacon.io/competitions/official/236158/overview/description
 
